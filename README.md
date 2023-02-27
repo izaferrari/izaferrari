@@ -3,5 +3,5 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izaferrari&layout=compact)](https://github.com/izaferrari/github-readme-stats)
 ##
 <div>
-<a href= "https://open.spotify.com/user/dfxg8il8q9awf1ic60y4a88wk"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<img src="https://cdn.discordapp.com/attachments/950030284487811142/1079809133336862792/Design_sem_nome_1_1.gif">
 </div>
