@@ -1,5 +1,4 @@
-<table>
-  <tr>
+<tr>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
         /About_Me<br>
@@ -19,4 +18,3 @@
       </p>
     </td>
   </tr>
-</table>
