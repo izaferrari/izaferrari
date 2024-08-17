@@ -14,6 +14,10 @@
         │   ├── sql.sql<br>
         │   ├── php.php<br>
         │   └── mysql.sql<br>
+        └──
       </p>
+    </td>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaferrari&layout=compact&hide_border=true&title_color=DDA0DD&text_color=DDA0DD&bg_color=0d1117" />
     </td>
   </tr>
