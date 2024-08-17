@@ -2,7 +2,6 @@
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
         /About_Me<br>
-        ├── /bio<br>
         │   ├── She/her - Brazilian - (pt/br + English)<br>
         │   ├── /Technical in Systems Development<br>
         │   └── /Data Science and Back-end enthusiast<br>
