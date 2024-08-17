@@ -1,5 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 10px;">
+
     <p style="font-family: monospace; font-size: 16px;">
       /About_Me<br>
       │<br>
@@ -16,8 +15,3 @@
       │   └── mysql.sql<br>
       └──
     </p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaferrari&layout=compact&hide_border=true&title_color=DDA0DD&text_color=DDA0DD&bg_color=0d1117" />
-  </div>
-</div>
