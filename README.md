@@ -4,7 +4,7 @@
         /About_Me<br>
         She/her - Brazilian - (pt/br + English)<br>
         Technical in Systems Development<br>
-        Data Science and Back-end enthusiast<br>
+        Data Science enthusiast<br>
         <br>
         /learning<br>
          python.py<br>
