@@ -1,13 +1,11 @@
- # 👩‍💻 About Me
-
-She/her | 🇧🇷 Brazilian  
-🌍 Languages: Portuguese (pt/br), English  
-💻 Technical in Systems Development  
-📊 Data Science Enthusiast  
+# Sobre Mim
+Idiomas: Português (pt/br), Inglês  
+Técnica em Desenvolvimento de Sistemas  
+Entusiasta de Ciência de Dados  
 
 ---
 
-## 🚀 Skills & Learning Path
+## Habilidades e Aprendizado
 
 Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
 
@@ -21,13 +19,13 @@ Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
 
 ---
 
-## 🌱 Always Learning
+## Sempre Aprendendo
 
-Sou apaixonada por tecnologia e adoro aprender sobre novas ferramentas e frameworks. Estou constantemente explorando tópicos como desenvolvimento web, ciência de dados e back-end development.
+Estou constantemente explorando tópicos como ciência de dados, desenvolvimento back-end e matemática.
 
 ---
 
-## 📫 Contact
+## Contato
 
 Você pode me encontrar no LinkedIn: [Izabely Ferrari](https://www.linkedin.com/in/izabelyferrarifarias/)  
 Kaggle: [Bely Ferrari](https://www.kaggle.com/belyferrari)
