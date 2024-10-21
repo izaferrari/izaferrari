@@ -1,17 +1,33 @@
- <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
-        /About_Me<br>
-        She/her - Brazilian - (pt/br + English)<br>
-        Technical in Systems Development<br>
-        Data Science enthusiast<br>
-        <br>
-        /learning<br>
-         python.py<br>
-         java.java<br>
-         sql.sql<br>
-         php.php<br>
-         mysql.sql<br>
-      </p>
-    </td>
-  </tr>
+ # 👩‍💻 About Me
+
+She/her | 🇧🇷 Brazilian  
+🌍 Languages: Portuguese (pt/br), English  
+💻 Technical in Systems Development  
+📊 Data Science Enthusiast  
+
+---
+
+## 🚀 Skills & Learning Path
+
+Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
+
+| Linguagens/Frameworks | Progresso  |
+| ---------------------- | ---------- |
+| ![Python](python.py)  | python.py  |
+| ![Java](java.java)    | java.java  |
+| ![SQL](sql.sql)      | sql.sql    |
+| ![PHP](php.php)      | php.php    |
+| ![MySQL](mysql.sql)  | mysql.sql  |
+
+---
+
+## 🌱 Always Learning
+
+Sou apaixonada por tecnologia e adoro aprender sobre novas ferramentas e frameworks. Estou constantemente explorando tópicos como desenvolvimento web, ciência de dados e back-end development.
+
+---
+
+## 📫 Contact
+
+Você pode me encontrar no LinkedIn: [Izabely Ferrari](https://www.linkedin.com/in/izabelyferrarifarias/)  
+Kaggle: [Bely Ferrari](https://www.kaggle.com/belyferrari)
