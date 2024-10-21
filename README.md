@@ -11,13 +11,13 @@ She/her | 🇧🇷 Brazilian
 
 Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
 
-| Linguagens/Frameworks | Progresso  |
-| ---------------------- | ---------- |
-| ![Python](python.py)  | python.py  |
-| ![Java](java.java)    | java.java  |
-| ![SQL](sql.sql)      | sql.sql    |
-| ![PHP](php.php)      | php.php    |
-| ![MySQL](mysql.sql)  | mysql.sql  |
+| Linguagens/Frameworks 
+| ---------------------- 
+|  python.py  |
+|  java.java  |
+|  sql.sql    |
+|  php.php    |
+|  mysql.sql  |
 
 ---
 
